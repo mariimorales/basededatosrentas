@@ -1,0 +1,23 @@
+javi mentiroso como le hago para saver si si se instalo el IIS y el apt o eso ps xk segun yo ya lo instale
+
+Luego eliges unidades ópticas y luego le das en choose disk image...
+pro dentro de la maquina virtual
+
+Si en la máquina virtual
+si ya lo mire javi
+y despues eligo el sql
+
+Y ya ahí t va abrir una ventana para q elijas el sql y cuando lo eliges t esperas poquito y ya t abre la ventana para q comiences a instalar el sql
+ps no me aparece que se esta instalando javi tendria que aparecer algo
+???????
+
+Y para verificar q instalarte iis abres el navegador de las máquina virtual, q es Internet Explorer. ..
+si
+
+Deja t acabo de decir lo de el iis
+ok
+
+Y en el navegador escribes localhost y das enter...
+Y t abre una pestaña de bienvenida. ..
+sii
+eso quiere decir que si funciona
